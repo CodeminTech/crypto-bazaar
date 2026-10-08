@@ -54,7 +54,7 @@ lib/
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/MobinaFetrati/flutter_crypto_bazzar.git
+git clone https://github.com/CodeminTech/flutter_crypto_bazzar.git
 ```
 
 ### 2️⃣ Navigate to the project
@@ -94,8 +94,9 @@ This project was developed to practice and demonstrate:
 
 ## 👩‍💻 Developer
 
-**Mobina Fetrati**
+**CodemonTech**
 
 Flutter Developer | Mobile Application Developer
 
-[GitHub](https://github.com/MobinaFetrati)
+🔗 GitHub:
+GitHub: https://github.com/CodeminTech
